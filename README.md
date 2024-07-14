@@ -33,10 +33,10 @@ Hey there! 👋 I'm **Rizki Setyo Putro Robawa**, a dedicated **backend develope
 ## 📊 GitHub Stats:
 <div id="header" align="center">
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagusdpa4&layout=compact&langs_count=80&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkirobawa&layout=compact&langs_count=80&theme=radical)
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagusdpa4&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkirobawa&show_icons=true&theme=radical)
 	
-![GitHub Streak](https://streak-stats.demolab.com?user=Bagusdpa4&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=rizkirobawa&theme=radical)
 	</div>
 <a/>
